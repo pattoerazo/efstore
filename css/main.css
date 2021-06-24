@@ -54,7 +54,7 @@ h3, .h3 {
   margin-bottom: 25px;
   font-weight:bold;
   padding: 10px;
-  color: #1395c9;
+  color: #ffffff;
   text-align: right;
 }
 
@@ -109,6 +109,21 @@ ul.nosyely_list {
   padding: 0;
   margin: 0;
   list-style: none;
+}
+
+.head-static{
+  height: 40px;
+  width: 100%;
+  color: #ffffff;
+  background: linear-gradient(0deg, rgba(0, 0, 10, 0.97), rgb(0, 0,25, 0.97));
+  opacity: 0,1;
+  align-items: center;
+}
+
+.head-static img{
+  display: block;
+  padding-top: 5px;
+  margin:auto;
 }
 
 .section_title {
@@ -1568,9 +1583,10 @@ img {
   background-color: #fff;
   z-index: 9999;
   width: 60px;
-  color: #1395c9;
+  color: rgb(0, 0, 10);
   height: 60px;
   border-radius: 50px;
+  border: 1px solid rgb(0, 0,25);
   -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 42px rgba(0, 0, 0, 0.1);
 }
@@ -1588,7 +1604,7 @@ img {
 }
 .menu_block .logo_box {
   text-align: center;
-  padding: 25px 10px;
+  padding: 50px 10px;
 }
 .menu_block .side_menu_section {
   margin-top: 50px;
