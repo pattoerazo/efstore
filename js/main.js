@@ -1,16 +1,3 @@
-/* ------------------------------------- */
-/*  TABLE OF CONTENTS                    */
-/* ------------------------------------- */
-/*   PRE LOADING                         */
-/*   WOW                                 */
-/*   SIDEBAR Menu                        */
-/*   Portfolio Masonry                   */
-/*   portfolio-filter                    */
-/*   pop up                              */
-/*   OWL CAROUSEL                        */
-/*   MAPS                                */
-/*   COUNTER JS                          */
-
 /*==============================================*/
 /*  PRE LOADING                                 */
 /*==============================================*/
