@@ -3,7 +3,6 @@
 
 /* ----------------Text Fonts ------------------- */
 
-
 body{
   font-size: 20px;
   line-height: 1.6;
@@ -263,8 +262,6 @@ img{
     }
   }
 
-
-
   /* ----------------colors------------------- */
   .color-gray{
     color: $color-gray !important;
@@ -313,8 +310,6 @@ img{
     background: -ms-linear-gradient(90deg, #ff5f6d 0%, #ffc371 100%);
     background: linear-gradient(90deg, #ff5f6d 0%, #ffc371 100%);
   }
-
-
 
   .bg-light {
     background-color: $color-light!important;
